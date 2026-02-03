@@ -1,0 +1,9 @@
+
+import random #Mehmet Baki Çelik
+
+r=random.random()
+if r<0.5:
+    print("yazı")
+else:
+    print("tura")
+    
